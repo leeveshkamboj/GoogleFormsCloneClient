@@ -1,5 +1,5 @@
 const config = {
-  serverUrl: "https://google-form-clone-server-1a0000075f04.herokuapp.com",
+  serverUrl: "https://formserver.rapidmail.pro",
   untitledFormName: "Untitled form",
   type_options: ["Short Answer", "Long Answer", "Dropdown", "MCQ"],
   quetionTypesWithOptions: [2, 3],
